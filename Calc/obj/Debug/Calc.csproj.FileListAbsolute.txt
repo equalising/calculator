@@ -1,0 +1,42 @@
+c:\users\henry\documents\visual studio 2015\Projects\Calc\Calc\bin\Debug\Calc.exe.config
+c:\users\henry\documents\visual studio 2015\Projects\Calc\Calc\bin\Debug\Calc.exe
+c:\users\henry\documents\visual studio 2015\Projects\Calc\Calc\bin\Debug\Calc.pdb
+c:\users\henry\documents\visual studio 2015\Projects\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+c:\users\henry\documents\visual studio 2015\Projects\Calc\Calc\obj\Debug\Calc.exe
+c:\users\henry\documents\visual studio 2015\Projects\Calc\Calc\obj\Debug\Calc.pdb
+C:\Users\Henry\Desktop\Calc\Calc\bin\Debug\Calc.exe.config
+C:\Users\Henry\Desktop\Calc\Calc\obj\Debug\Calc.exe
+C:\Users\Henry\Desktop\Calc\Calc\obj\Debug\Calc.pdb
+C:\Users\Henry\Desktop\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\Henry\Desktop\Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\Henry\Desktop\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+H:\Calc\Calc\bin\Debug\Calc.exe.config
+H:\Calc\Calc\obj\Debug\Calc.exe
+H:\Calc\Calc\obj\Debug\Calc.pdb
+H:\Calc\Calc\bin\Debug\Calc.exe
+H:\Calc\Calc\bin\Debug\Calc.pdb
+H:\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+E:\Calc\Calc\bin\Debug\Calc.exe.config
+E:\Calc\Calc\obj\Debug\Calc.exe
+E:\Calc\Calc\obj\Debug\Calc.pdb
+E:\Calc\Calc\bin\Debug\Calc.exe
+E:\Calc\Calc\bin\Debug\Calc.pdb
+E:\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+C:\Users\Henry\Desktop\Calc 11971431\Calc\bin\Debug\Calc.exe.config
+C:\Users\Henry\Desktop\Calc 11971431\Calc\obj\Debug\Calc.exe
+C:\Users\Henry\Desktop\Calc 11971431\Calc\obj\Debug\Calc.pdb
+C:\Users\Henry\Desktop\Calc 11971431\Calc\bin\Debug\Calc.exe
+C:\Users\Henry\Desktop\Calc 11971431\Calc\bin\Debug\Calc.pdb
+C:\Users\Henry\Desktop\Calc 11971431\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+E:\Calc 11971431\Calc\bin\Debug\Calc.exe.config
+E:\Calc 11971431\Calc\obj\Debug\Calc.exe
+E:\Calc 11971431\Calc\obj\Debug\Calc.pdb
+E:\Calc 11971431\Calc\bin\Debug\Calc.exe
+E:\Calc 11971431\Calc\bin\Debug\Calc.pdb
+E:\Calc 11971431\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+C:\Users\Henry\Desktop\Calc_11971431\Calc\bin\Debug\Calc.exe.config
+C:\Users\Henry\Desktop\Calc_11971431\Calc\obj\Debug\Calc.exe
+C:\Users\Henry\Desktop\Calc_11971431\Calc\obj\Debug\Calc.pdb
+C:\Users\Henry\Desktop\Calc_11971431\Calc\bin\Debug\Calc.exe
+C:\Users\Henry\Desktop\Calc_11971431\Calc\bin\Debug\Calc.pdb
+C:\Users\Henry\Desktop\Calc_11971431\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
